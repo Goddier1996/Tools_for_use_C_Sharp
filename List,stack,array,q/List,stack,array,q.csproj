@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>List_stack_array_q</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Unit4">
+      <HintPath>..\..\..\..\..\..\..\All my Apps\learn\שנה ב\סמסטר ב\5555\מבנה נתונים\שיעור 9\1\ConsoleApp1\ConsoleApp1\bin\Debug\Unit4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\bin\Debug\netcoreapp3.1\List,stack,array,q.exe
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\bin\Debug\netcoreapp3.1\List,stack,array,q.deps.json
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\bin\Debug\netcoreapp3.1\List,stack,array,q.runtimeconfig.json
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\bin\Debug\netcoreapp3.1\List,stack,array,q.runtimeconfig.dev.json
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\bin\Debug\netcoreapp3.1\List,stack,array,q.dll
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\bin\Debug\netcoreapp3.1\List,stack,array,q.pdb
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.csproj.AssemblyReference.cache
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.AssemblyInfoInputs.cache
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.AssemblyInfo.cs
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.csproj.CoreCompileInputs.cache
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.dll
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.pdb
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.genruntimeconfig.cache
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\bin\Debug\netcoreapp3.1\Unit4.dll
+C:\Users\kfar-\Desktop\My_project's\c#\List,stack,array,q\List,stack,array,q\obj\Debug\netcoreapp3.1\List,stack,array,q.csproj.CopyComplete
