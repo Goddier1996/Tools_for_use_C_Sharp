@@ -1,2 +1,2 @@
 # here was Tools for C# 
-array , 2D array , Stack , List , 2D List , queue
+Array , 2D Array , Stack , List , 2D List , Queue
